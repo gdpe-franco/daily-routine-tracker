@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" role="img" aria-label="Daily tracker">
+  <rect width="192" height="192" rx="40" fill="#101010"/>
+  <path d="M48 48l15 15 31-33M48 96l15 15 31-33" fill="none" stroke="#dedede" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M48 144l15 15 31-33" fill="none" stroke="#a99acb" stroke-width="14" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

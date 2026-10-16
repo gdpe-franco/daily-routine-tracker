@@ -1,0 +1,1 @@
+{"name":"My Daily Reset","short_name":"Daily Reset","description":"A daily planner for mood, notes, a seven-day digital break, and 30-day history","start_url":"/","scope":"/","display":"standalone","background_color":"#101010","theme_color":"#101010","icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
